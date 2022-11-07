@@ -3,10 +3,7 @@
   "version": "1.0.0",
   "description": "Creates tasks in ClickUp through the API by obtaining bio data from instagram ",
   "main": "index.js",
-  "scripts": {
-    "start": "./node_modules/.bin/netlify-lambda serve src",
-    "build": "./node_modules/.bin/netlify-lambda build src"
-  },
+  "scripts": {},
   "author": "Emre Cakmak",
   "license": "ISC",
   "dependencies": {
