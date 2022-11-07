@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "Creates tasks in ClickUp through the API by obtaining bio data from instagram ",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "build": "netlify/functions/meta.js"
+  },
   "author": "Emre Cakmak",
   "license": "ISC",
   "dependencies": {
